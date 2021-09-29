@@ -1,0 +1,24 @@
+h1{
+    border:3px solid black;
+    background-color: rgb(22, 49, 197);
+    color: rgb(3, 3, 1);
+    block-size:1cm;
+    border-width: 0.3cm;
+    text-align: center;
+}
+h2{
+    border:3px solid black;
+    display:inline-block;
+    background-color: rgb(22, 49, 197);
+}
+img{
+    display: block;
+    border:3px solid black;
+}
+iframe{
+    display: block;
+    border:3px solid black;
+}
+body{
+    background-color: rgb(202, 122, 17);
+}
