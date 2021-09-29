@@ -10,6 +10,7 @@ h2{
     border:3px solid black;
     display:inline-block;
     background-color: rgb(22, 49, 197);
+    text-align-last: center;
 }
 img{
     display: block;
